@@ -10,7 +10,7 @@ Measuring how much of the reported performance in chart-image financial models c
 
 | File | Contents |
 |---|---|
-| `vesta_sizinti_deneyi.ipynb` | Full experiment: data download, label construction, embargo sweep, threshold sensitivity, ViT comparison, bootstrap CIs |
+| `sizinti_deneyi.ipynb` | Full experiment: data download, label construction, embargo sweep, threshold sensitivity, ViT comparison, bootstrap CIs |
 
 Everything runs top to bottom in Google Colab. No private data, no credentials, no preprocessed files — the notebook downloads its own data from Yahoo Finance and reproduces every number below.
 
