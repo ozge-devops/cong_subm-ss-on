@@ -119,15 +119,6 @@ Approximate timings: data download under a minute, embargo sweep about three min
 
 Fixed seeds throughout. Reported numbers are single runs, not seed averages.
 
----
-
-## References
-
-- López de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. — purging, embargoing, and leakage-resistant cross-validation.
-- Dosovitskiy, A., et al. (2021). An Image is Worth 16×16 Words: Transformers for Image Recognition at Scale. *ICLR*. arXiv:2010.11929
-- Ke, G., et al. (2017). LightGBM: A Highly Efficient Gradient Boosting Decision Tree. *NeurIPS*.
-
----
 
 ## Status
 
